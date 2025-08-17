@@ -1,0 +1,32 @@
+## this is to pass the parameter of files to adf
+
+[
+    {
+        "githubforcsv":"Data_engineering_Ecommerce/refs/heads/main/brazilian_olist_dataset/olist_customers_dataset.csv",
+        "file_name":"olist_customers_dataset.csv"
+     },
+    {
+        "githubforcsv":"Data_engineering_Ecommerce/refs/heads/main/brazilian_olist_dataset/olist_geolocation_dataset.csv",
+        "file_name":"olist_geolocation_dataset.csv"
+     },
+    {
+        "githubforcsv":"Data_engineering_Ecommerce/refs/heads/main/brazilian_olist_dataset/olist_order_items_dataset.csv",
+        "file_name":"olist_order_items_dataset.csv"
+     },
+    {
+        "githubforcsv":"Data_engineering_Ecommerce/refs/heads/main/brazilian_olist_dataset/olist_order_reviews_dataset.csv",
+        "file_name":"olist_order_reviews_dataset.csv"
+     },
+    {
+        "githubforcsv":"Data_engineering_Ecommerce/refs/heads/main/brazilian_olist_dataset/olist_orders_dataset.csv",
+        "file_name":"olist_orders_dataset.csv"
+     },
+    {
+        "githubforcsv":"Data_engineering_Ecommerce/refs/heads/main/brazilian_olist_dataset/olist_products_dataset.csv",
+        "file_name":"olist_products_dataset.csv"
+     },
+    {
+        "githubforcsv":"Data_engineering_Ecommerce/refs/heads/main/brazilian_olist_dataset/olist_sellers_dataset.csv",
+        "file_name":"olist_sellers_dataset.csv"
+     }
+]
