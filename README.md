@@ -41,7 +41,7 @@ The goal was to design a modern **data lakehouse architecture** for an e-commerc
 ##  Repository Contents
 - `databricks/` → PySpark notebooks for data cleaning, transformation, joins  
 - `synapse/` → SQL scripts for external tables and serving layer  
-- `data/` → Sample dataset used in the pipeline  
+- `data/` → Brazillian Olist ecommerce dataset used in the pipeline which was taken from kaggle.
 
 ---
 
